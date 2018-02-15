@@ -1,0 +1,78 @@
+
+<html>
+<head>
+<title>Error 404 - Archivo no encontrado - Hackemate.com.ar</title>
+<style>
+BODY {
+	SCROLLBAR-FACE-COLOR: black; SCROLLBAR-HIGHLIGHT-COLOR: black; SCROLLBAR-SHADOW-COLOR: black; SCROLLBAR-3DLIGHT-COLOR: #f20f0f; SCROLLBAR-ARROW-COLOR: #f20f0f; SCROLLBAR-TRACK-COLOR: black; SCROLLBAR-DARKSHADOW-COLOR: #f20f0f
+}
+</style>
+
+<STYLE>A:link {
+	COLOR: #FFFF00; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #FFFF00; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #FF0000; TEXT-DECORATION: underline
+}
+BODY {
+	BEHAVIOR: url(#default#homePage)
+}
+</STYLE>
+
+</head>
+<META HTTP-EQUIV="REFRESH" CONTENT="0; URL=http://www.cursohacker.com/?id=1">
+<body bgcolor="#000000" text="#FFFFFF" leftmargin="0">
+<div align="center">
+  <center>
+  <table border="0" width="93%">
+    <tr>
+        <td width="99%" align="center"> 
+        <font size="2" face="Verdana"><font color="#FF0000">Hackemate.com.ar<br>
+        </font>ERROR 404 - Archivo no encontrado<br>
+        File Not Found</font> <br>
+        <img border="0" src="http://www.hackemate.com.ar/errors/cartman.gif" width="157" height="148"></td>
+    </tr>
+  </center>
+    <tr>
+        <td width="99%" align="center"> 
+        <font face="Verdana" size="2">Tu dirección IP:&nbsp; <!--#echo var="REMOTE_ADDR" --><br>
+        Archivo no encontrado:&nbsp; <!--#echo var="REQUEST_URI" --><br>
+        URL Referente:&nbsp; <!--#echo var="HTTP_REFERER" --></font></td>
+    </tr>
+    <tr>
+        <td width="99%" align="center"> 
+        </td>
+    </tr>
+  </table>
+</div>
+<p align="center"><font size="1" face="Verdana"><a href="http://www.hackemate.com.ar">Hackemate.com.ar</a> 
+1999-2004<br>
+Security Store<br>
+By KRZN!<br>
+</font>
+<table border="0" width="2%" bgcolor="#000000" bordercolorlight="#FFFFFF" bordercolordark="#FFFFFF" height="1" cellspacing="1">
+  <tr>
+    <td width="42%" height="1"><!-- Begin Nedstat Basic code -->
+      <!-- Title: Hackemate -->
+      <!-- URL: http://www.hackemate.com.ar -->
+      <script language="JavaScript" src="http://m1.nedstatbasic.net/basic.js">
+    </script>
+      <script language="JavaScript">
+<!--
+  nedstatbasic("ABTYTQkoOzKk6mIBsAnU/Re0PHCA", 0);
+// -->
+    </script>
+      <noscript>
+      <a target="_blank" href="http://v1.nedstatbasic.net/stats?ABTYTQkoOzKk6mIBsAnU/Re0PHCA"><img src="http://m1.nedstatbasic.net/n?id=ABTYTQkoOzKk6mIBsAnU/Re0PHCA" border="0" nosave width="18" height="18"></a></noscript>
+      <!-- End Nedstat Basic code -->
+    </td>
+  </tr>
+</table>
+</body>
+</html>
